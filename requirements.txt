@@ -1,0 +1,8 @@
+flask
+pymysql
+flask_sqlalchemy
+Flask-WTF
+Flask-Restful
+Flask-OAuthlib
+WTForms
+SQLAlchemy-ImageAttach
